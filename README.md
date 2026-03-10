@@ -59,4 +59,4 @@ While working on this problem I learned more about:
 
 Below is a screenshot of the program running in VS Code.
 
-![Merge Sort](MergeSort.png)
+![subset](subset.png)
